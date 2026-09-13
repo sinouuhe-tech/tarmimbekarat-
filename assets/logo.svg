@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="F Farahmand logo">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3d98a"/><stop offset=".5" stop-color="#c9a227"/><stop offset="1" stop-color="#8f6b13"/></linearGradient></defs>
+ <g fill="none" stroke="url(#g)" stroke-width="3">
+  <path d="M120 39c-22 0-37 12-37 29 0 10 7 19 19 24-13 3-25 12-31 26"/>
+  <path d="M120 39c22 0 37 12 37 29 0 10-7 19-19 24 13 3 25 12 31 26"/>
+  <path d="M70 119c19-9 39-8 50 4 11-12 31-13 50-4"/>
+ </g>
+ <text x="120" y="128" text-anchor="middle" font-family="Georgia,serif" font-size="92" font-weight="700" fill="url(#g)">F</text>
+ <path d="M120 8l7 13 15 2-11 10 3 15-14-7-14 7 3-15-11-10 15-2z" fill="url(#g)"/>
+ <path d="M48 174c25-18 42-18 72 0 30-18 47-18 72 0M65 190c18-11 32-11 55 0 23-11 37-11 55 0" fill="none" stroke="url(#g)" stroke-width="2"/>
+</svg>

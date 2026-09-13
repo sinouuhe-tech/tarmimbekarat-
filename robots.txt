@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tarmimbekarat.farahmahd.workers.dev/sitemap.xml

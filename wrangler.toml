@@ -1,0 +1,12 @@
+name = "tarmimbekarat"
+main = "functions/_worker.js"
+compatibility_date = "2026-09-01"
+
+[assets]
+directory = "./"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hymenacademy"
+database_id = "9a3f8c3b-1522-436a-8893-f17fe56abe2f"
